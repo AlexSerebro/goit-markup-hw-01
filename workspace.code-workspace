@@ -1,0 +1,20 @@
+{
+  "folders": [
+	{
+		"path": "..\\education"
+	},
+	{
+		"path": "..\\JS"
+	},
+	{
+		"path": "..\\html"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "goit-markup-hw-01",
+    "editor.fontSize": 22
+  }
+}
